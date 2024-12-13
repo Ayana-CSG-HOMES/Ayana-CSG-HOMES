@@ -1,13 +1,17 @@
 # Ayana Andrews-Joseph 🎨🏋🏾‍♀️🚀
+I focus on delivering data-driven insights that allow B2B and B2C teams to leverage analytics at the C-suite decision-making processes.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aajoseph)  
-**Data Whisperer** | **Data Science Enthusiast** | **Process Optimization Dweeb**
+**Data Whisperer** | **Process Optimization Dweeb** | **Strategic Analytics Architect** 
 
 ---
 
 ## About Me 🤓💼
 
-With a relentless drive for results, I turn complex data into actionable insights that make a real impact. Whether it’s in data engineering, advanced analytics, or building automated processes, I am focused on creating data solutions that are both intelligent and indispensable. Yes, 
+
+With a relentless drive for results, I turn complex data into actionable insights that make a real impact. Whether it’s in data engineering, advanced analytics, or building automated processes, I am focused on creating data solutions that are both intelligent and indispensable. 
+
+At CoStar Group, my pivotal role as Lead Data Analyst harnesses strategic analytics to translate complex data patterns into compelling market insights. With a deep-seated expertise in clinical data analysis, my journey includes transforming healthcare data into actionable intelligence at VCU Health, a skill I've refined and carried over to the dynamic world of real estate analytics. What can I say - I know people.
 
 ---
 
@@ -23,19 +27,20 @@ With a relentless drive for results, I turn complex data into actionable insight
 
 - 📊 Favorite phrase: “It depends"
 - 🤖 If I were a SQL function: `CASE WHEN "challenge" THEN "conquer" ELSE "innovate" END`
-- ⚡ I clean datasets 👩‍🔬 , plates 🍽️, and weights 🏋️
+- ⚡ I clean datasets 👩‍🔬 , plates 🍽️, and weights 🏋
+
 ---
 
 ## Core Skills & Technical Stack 💡
 
 ### Languages & Tools
-- **Programming**: Python, SQL, R
-- **Data Platforms**: Snowflake, AWS, GCP, Power BI, Tableau
-- **Automation**: CLI tools, Jupyter, GitHub, PowerShell, Bash
+- **Programming**: CLI, JSON/SemizStructured, SQL (BigQuery, Snowflake, and multiple standards), Python, R and anything else you throw my way
+- **Data Platforms**: Snowflake, AWS, Google Analytics, Power BI, Tableau
+- **Automation**: AI,CLI, and ML tools, Jupyter, GitHub, PowerShell, Bash
 
 ### Analytics & Data Science
 - **Machine Learning**: Regression, Clustering, A/B Testing, Price Analysis
-- **Visualization**: Creating data stories with Power BI, Tableau, Matplotlib
+- **Visualization**: Creating data stories with Power BI, Tableau, R and platform-integrated dashboards
 - **Engineering**: Expertise in behavioral analytics, ETL, data pipelines, complex data models, and Snowflake for high-performance analytics
 
 ---
@@ -48,9 +53,8 @@ With a relentless drive for results, I turn complex data into actionable insight
 A custom-built tool identifying customers and likely purchases across their grouping "domains" results in increased ROI by targeting the ideal customers given the marketing message.
 
 ### Automated BI System 🤖  
-An AI-driven automation framework designed to streamline data workflows, reduce manual intervention, and accelerate executive reporting with pinpoint accuracy.
+AI-powered automation framework designed to reduce manual processes, improve accuracy, and expedite high-level reporting.
 
-> NOTE: I focus on delivering data-driven insights that allow B2B and B2C teams to leverage analytics at the C-suite decision-making processes.
 ---
 
 ## Get in Touch
